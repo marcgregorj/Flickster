@@ -18,7 +18,7 @@ The following **optional** features are implemented:
 
 [ ] User can **pull-to-refresh** popular stream to get the latest movies.
 [ ] Display a nice default [placeholder graphic](http://guides.codepath.com/android/Displaying-Images-with-the-Picasso-Library#configuring-picasso) for each image during loading.
-[*] Improved the user interface through styling and coloring.
+* [*] Improved the user interface through styling and coloring.
 
 The following **bonus** features are implemented:
 
@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/marcgregorj/Flickster/blob/master/flickster.png' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/marcgregorj/Flickster/blob/master/flickster.png' title='Image Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
